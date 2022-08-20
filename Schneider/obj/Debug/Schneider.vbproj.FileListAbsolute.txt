@@ -1,0 +1,80 @@
+E:\Projects\DOT NET\Schneider\Schneider\bin\Debug\Schneider.exe.config
+E:\Projects\DOT NET\Schneider\Schneider\bin\Debug\Schneider.exe
+E:\Projects\DOT NET\Schneider\Schneider\bin\Debug\Schneider.pdb
+E:\Projects\DOT NET\Schneider\Schneider\bin\Debug\Schneider.xml
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.FrmLogin.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.Form2.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_master.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_New.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_Open.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_reference.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_refmaster.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.f_utama.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.Resources.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.TestScanner.resources
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.vbproj.GenerateResource.cache
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.vbproj.CoreCompileInputs.cache
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.vbproj.CopyComplete
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.exe
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.xml
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.pdb
+E:\Projects\DOT NET\Schneider\Schneider\obj\Debug\Schneider.vbprojAssemblyReference.cache
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\bin\Debug\Schneider.exe.config
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\bin\Debug\Schneider.exe
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\bin\Debug\Schneider.pdb
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\bin\Debug\Schneider.xml
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.FrmLogin.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.Form2.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_master.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_New.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_Open.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_reference.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_refmaster.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.f_utama.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.Resources.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.TestScanner.resources
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.vbproj.GenerateResource.cache
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.vbproj.CoreCompileInputs.cache
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.vbproj.CopyComplete
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.exe
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.xml
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.pdb
+E:\Projects\DOT NET\Schneider\Bench 2\Live\Schneider\obj\Debug\Schneider.vbprojAssemblyReference.cache
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\bin\Debug\Schneider.exe.config
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.exe
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.xml
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.pdb
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\bin\Debug\Schneider.exe
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\bin\Debug\Schneider.pdb
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\bin\Debug\Schneider.xml
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.vbprojResolveAssemblyReference.cache
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.FrmLogin.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.Form2.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_master.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_New.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_Open.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_reference.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_refmaster.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.f_utama.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.Resources.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.TestScanner.resources
+C:\Users\Anjas\Desktop\Tgl 1712\Bench 2\Schneider\obj\Debug\Schneider.vbproj.GenerateResource.Cache
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\bin\Debug\Schneider.exe.config
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.exe
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.xml
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.pdb
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\bin\Debug\Schneider.exe
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\bin\Debug\Schneider.pdb
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\bin\Debug\Schneider.xml
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.vbprojResolveAssemblyReference.cache
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.FrmLogin.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.Form2.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_master.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_New.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_Open.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_reference.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_refmaster.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.f_utama.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.Resources.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.TestScanner.resources
+C:\Users\Anjas\Documents\SEKA\Schneider Project\LOT 4\28. Appstest\SOURCE CODE\XVG LAST UPDATE - BENCH 1 DAN 2\Tgl 1712  bench 2 - Update Reset\Bench 2\Schneider\obj\Debug\Schneider.vbproj.GenerateResource.Cache
